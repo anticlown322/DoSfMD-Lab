@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--App-->
+    <string name="app_name" translatable="false">Silk Road</string>
+
+    <!--Login screen-->
+    <string name="login_content_description">Login screen background</string>
+    <string name="logo_content_description">Market Logo</string>
+    <string name="short_app_description">anonymous marketplace</string>
+    <string name="email_field_title">Email</string>
+    <string name="password_field_title">Password</string>
+    <string name="sing_in_button">Sign in</string>
+    <string name="sing_up_button">Sign up</string>
+
+    <!--Home screen-->
+    <string name="home_content_description">Home screen background</string>
+    <string name="home_icon_content_description">Home bottom bar button</string>
+    <string name="profile_icon_content_description">Profile bottom bar button</string>
+    <string name="favs_icon_description">Favourite bottom bar button</string>
+    <string name="settings_icon_description">Settings bottom bar button</string>
+
+    <!--Home navigator screen-->
+    <string name="navigator_content_description">Navigation background</string>
+    <string name="navigator_list_title">Categories</string>
+    <string name="category_all">All</string>
+    <string name="category_self_defence">Self-defence</string>
+    <string name="category_medicine">Medicine</string>
+    <string name="category_content">Content</string>
+    <string name="category_second_hand">Second-hand</string>
+</resources>
