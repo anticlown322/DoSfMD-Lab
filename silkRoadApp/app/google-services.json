@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925872669089",
+    "project_id": "silkroad-55a71",
+    "storage_bucket": "silkroad-55a71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925872669089:android:30f9fa1b78dcefd738cbe0",
+        "android_client_info": {
+          "package_name": "by.andreikaras.silkroadapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2dLi2_hxzlswsqUCQsCDesb-Dp0XhHjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
