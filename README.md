@@ -1,7 +1,4 @@
-# :eyes: Overview
-
-## :call_me_hand: Results
-
-## :mag: Details
-
-## :jigsaw: Issues I faced
+- Условия лаб - [\*клик\*](assets/files/РПОдМП.txt)
+- Сделана лаба только на Kotlin, т.к. в этом году был обязателен [проект](https://github.com/anticlown322/belgidromet-app-imitation). Поэтому для допуска достаточно было сделать всего одну.
+- В лабе есть функционал на 8, на эту же оценку успешно сдана. При доработке можно получить 9-10.
+- Гайд, по которому делалась лаб - [\*клик\*](https://www.youtube.com/playlist?list=PLmjT2NFTgg1d2IQOvaYvYXZiNq91XpwwY)
